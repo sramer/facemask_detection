@@ -1,6 +1,4 @@
-Steps to run FaceMask app::
-
-1. Getting Started: #############################################################
+#Steps to run FaceMask app::
 
 1 -> After downloading the FaceMask directory navigate to the director using cmd. 
 
