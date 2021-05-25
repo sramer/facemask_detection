@@ -1,0 +1,16 @@
+Advantages
+1. Face mask detection platform can quickly identify the person with a mask, using cameras and analytics.
+2. Identify faces, including facial features through technology, especially hardware, like video cameras.
+3. Enhance surveilance systems.
+4. Identify people without masks by generating an alarm or a notification to notify security or officials
+5. Provides a way to prevent the spread of dangerous viruses like COVID-19.
+
+Future enhancements.
+1. The system is easy to implement in any existing organizational system. 
+2. Custom alerts can be sent to the person with or without a face mask or the one whose face is unrecognizable in the admin system.
+3. No need to install any hardware as the system can be connected with your existing surveillance system only.
+4. The system can be used easily with any camera or hardware like surveillance cameras.
+5. The system restricts access for those not wearing the masks and notifies the authorities.
+6. You can customize the face mask detection system based on your business requirements. 
+7. You can check the analytics based on the system generated reports. 
+8. Easy to access and control the movements from any device through face mask detection applications. 
